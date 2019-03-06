@@ -1,0 +1,19 @@
+{
+  "name": "sls-check-git-branch-before-deploy",
+  "version": "0.1.0",
+  "description": "Serverless framework plugin to check that current git branch is allowed to deploy to serverless stage.",
+  "main": "check-git-branch-before-deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiveTalent/sls-check-git-branch-before-deploy.git"
+  },
+  "author": "Jeff Finley <jeff.finley@fivetalent.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FiveTalent/sls-check-git-branch-before-deploy/issues"
+  },
+  "homepage": "https://github.com/FiveTalent/sls-check-git-branch-before-deploy#readme"
+}
