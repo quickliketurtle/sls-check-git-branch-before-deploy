@@ -1,6 +1,6 @@
 # Serverless Check Git Branch Before Deploy
 
-Serverless framework pluging to check that current git branch is allowed to deploy to serverless stage.
+Serverless framework plugin to check that current git branch is allowed to deploy to serverless stage.
 
 ## Getting Started
 
